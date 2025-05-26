@@ -123,7 +123,7 @@ endmodule
 OUTPUT:
 ![Screenshot 2025-04-29 204403](https://github.com/user-attachments/assets/abd03953-50b0-4804-b570-4a0c7f5c0a75)
 
-```
+
 
 // TestBench
 ```
